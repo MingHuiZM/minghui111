@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WALL
+  - Wall
+  - Enemy
+  - Hold
+  - Ball
+  - BallParen
+  - Weapon
+  - Death
+  - Hole
+  - hOLE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Traps
+  - Player
+  - Post processing
+  - EnemyBulliet
+  - PlayerBulliet
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGorund
+    uniqueID: 2656411925
+    locked: 0
+  - name: Platforms
+    uniqueID: 330210389
+    locked: 0
+  - name: Player
+    uniqueID: 2488304649
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4064400823
+    locked: 0
